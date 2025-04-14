@@ -1,5 +1,5 @@
 # Customized
-weights/*
+# weights/*
 !weights/ckpt.t7
 !weights/DHN.pth 
 !weights/osnet_x0_25.pth
@@ -11,8 +11,8 @@ wandb/*
 track_result.txt
 .idea/
 track_results/*
-*.mp4
-*.mkv
+# *.mp4
+# *.mkv
 temp.py
 demo_result/
 
